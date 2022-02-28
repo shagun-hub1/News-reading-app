@@ -1,6 +1,6 @@
 import React,{useEffect,useState} from "react"; 
 import alanBtn from "@alan-ai/alan-sdk-web";
-import NewsCards from "./components/NewsCards/NewsCards/NewsCards";
+import NewsCards from "./components/NewsCards/NewsCards";
 import useStyles from './styles'
 import { Typography } from "@material-ui/core";
 import wordsToNumbers from "words-to-numbers";
